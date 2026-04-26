@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data and Outputs
+LJSpeech-1.1/
+daqs_output/audio/
+daqs_output/metrics/
+daqs_output/results/
+daqs_output/plots/
+
+# User Scratch and Temp
+scratch/
+*.txt
+*.py
+!requirements.txt
+!README.md
+
+# OS
+.DS_Store
+Thumbs.db
