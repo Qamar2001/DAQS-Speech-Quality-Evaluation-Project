@@ -1,0 +1,7 @@
+Comparison,W-statistic,p-value,Significant?,Direction
+DAQS vs MCD,5091.0,0.0,✅ p<0.05,Distributions differ significantly
+DAQS vs PESQ,5270.0,0.0,✅ p<0.05,Distributions differ significantly
+DAQS vs UTMOS,1102.0,0.0,✅ p<0.05,Distributions differ significantly
+DAQS vs DNSMOS,12282.0,0.0,✅ p<0.05,Distributions differ significantly
+DAQS vs WER,7785.0,0.0,✅ p<0.05,Distributions differ significantly
+DAQS vs Naive Average,0.0,1.0,❌ p≥0.05 (not significant),Distributions differ significantly

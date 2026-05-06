@@ -1,0 +1,4 @@
+,λ,AUC-ROC,F1,Note
+DAQS Full (λ=0.0),0.0,1.0,0.6667,Full model with disagreement penalty
+DAQS Ablated (λ=0 → Naive μ),0.0,1.0,0.6667,Disagreement term removed → reduces to naive average
+DAQS Over-penalized (λ=2.0),2.0,1.0,0.6667,λ too large — over-penalizes mid-range utterances

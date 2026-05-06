@@ -1,0 +1,10 @@
+Method,AUC-ROC,F1
+MCD,1.0,0.6667
+PESQ,1.0,0.6667
+Naive Average (μ),1.0,0.6667
+Logistic Regression,1.0,1.0
+DAQS (Ours) ★,1.0,0.6667
+TTSDS-style Composite,0.9925,0.66
+UTMOS,0.6642,0.4733
+WER,0.6008,0.4013
+DNSMOS,0.4168,0.2933

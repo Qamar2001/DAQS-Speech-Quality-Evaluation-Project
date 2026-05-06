@@ -1,0 +1,5 @@
+Name,Source,Size,Language,Speakers,Licence,Role
+LJSpeech-1.1,keithito.com/LJ-Speech-Dataset,"13,100 utterances / ~24 hrs",English,1 (female),Public Domain,Natural speech — reference & TTS text prompts
+SpeedySpeech outputs (self-generated),Coqui TTS — github.com/coqui-ai/TTS,100 utterances (generated from LJSpeech text),English,1 (synthetic LJSpeech voice),MPL-2.0 (open source),Low-quality / concatenative-proxy TTS system
+Tacotron2-DDC outputs (self-generated),Coqui TTS — github.com/coqui-ai/TTS,100 utterances (generated from LJSpeech text),English,1 (synthetic LJSpeech voice),MPL-2.0 (open source),Neural TTS — medium quality
+VITS outputs (self-generated),Coqui TTS — github.com/coqui-ai/TTS,100 utterances (generated from LJSpeech text),English,1 (synthetic LJSpeech voice),MPL-2.0 (open source),State-of-the-art TTS — highest quality tier

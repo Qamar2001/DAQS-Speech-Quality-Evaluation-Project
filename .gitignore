@@ -11,8 +11,16 @@ ENV/
 LJSpeech-1.1/
 daqs_output/audio/
 daqs_output/metrics/
-daqs_output/results/
-daqs_output/plots/
+# We keep results and plots for the final submission
+!daqs_output/results/
+!daqs_output/plots/
+
+# Paper and Templates (Excluded as requested)
+main.tex
+references.bib
+*.pdf
+*.docx
+RP_Template.pdf
 
 # User Scratch and Temp
 scratch/
